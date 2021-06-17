@@ -48,9 +48,5 @@ vignettes/*.pdf
 *.rds
 *.rar
 
-#Credentials file
-cred.csv
-analisis/045_EstrategiasDomiciliacion/Costos_domis.jpg
-
 #Models
 *.hdf5
